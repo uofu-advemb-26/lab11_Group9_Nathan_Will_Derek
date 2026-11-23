@@ -1,0 +1,7 @@
+/home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/pioasm/CMakeFiles/pioasm.dir
+/home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/pioasm/CMakeFiles/edit_cache.dir
+/home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/pioasm/CMakeFiles/list_install_components.dir
+/home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/pioasm/CMakeFiles/install.dir
+/home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/pioasm/CMakeFiles/install/local.dir
+/home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/pioasm/CMakeFiles/install/strip.dir

@@ -1,0 +1,44 @@
+server/CMakeFiles/lab11_server.dir/home/reusnat/Documents/FreeRTOS-Kernel/croutine.c.o: \
+ /home/reusnat/Documents/FreeRTOS-Kernel/croutine.c \
+ /home/reusnat/Documents/FreeRTOS-Kernel/include/FreeRTOS.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stddef.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdint.h \
+ /home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/include/FreeRTOSConfig.h \
+ /usr/include/newlib/assert.h /usr/include/newlib/_ansi.h \
+ /usr/include/newlib/newlib.h /usr/include/newlib/_newlib_version.h \
+ /usr/include/newlib/sys/config.h /usr/include/newlib/machine/ieeefp.h \
+ /usr/include/newlib/sys/features.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/include/projdefs.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/include/portable.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/include/deprecated_definitions.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/include/portmacro.h \
+ /home/reusnat/Documents/pico-sdk/src/common/pico_base_headers/include/pico.h \
+ /home/reusnat/Documents/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+ /home/reusnat/Documents/pico-sdk/src/common/pico_base_headers/include/pico/assert.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdbool.h \
+ /home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/generated/pico_base/pico/version.h \
+ /home/reusnat/Documents/pico-sdk/src/common/pico_base_headers/include/pico/config.h \
+ /home/reusnat/Documents/lab11_Group9_Nathan_Will_Derek/build/generated/pico_base/pico/config_autogen.h \
+ /home/reusnat/Documents/pico-sdk/src/boards/include/boards/pico_w.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/include/freertos_sdk_config.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/include/rp2040_config.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2040/pico_platform/include/pico/platform.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
+ /usr/include/newlib/sys/cdefs.h \
+ /usr/include/newlib/machine/_default_types.h \
+ /home/reusnat/Documents/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h \
+ /home/reusnat/Documents/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
+ /home/reusnat/Documents/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/include/mpu_wrappers.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/include/task.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/include/list.h \
+ /home/reusnat/Documents/FreeRTOS-Kernel/include/croutine.h
